@@ -3,11 +3,6 @@
 
 # walmartAPI
 
-[![Travis build
-status](https://travis-ci.org/EmilHvitfeldt/walmartAPI.svg?branch=master)](https://travis-ci.org/EmilHvitfeldt/walmartAPI)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/walmartAPI)](https://cran.r-project.org/package=walmartAPI)
-![downloads](http://cranlogs.r-pkg.org/badges/grand-total/walmartAPI)
-
 The goal of **walmartAPI** is to give access to the API created by
 [walmartlabs](https://developer.walmartlabs.com/) to search products,
 locate stores etc etc.
